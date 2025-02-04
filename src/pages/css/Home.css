@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(to right, rgb(156, 93, 156), rgb(20, 20, 20));
+
+}
+.bodies{
+    min-height: 100vh;
+}
+.background{
+    background: linear-gradient(to right, rgb(156, 93, 156), rgb(20, 20, 20));
+}
+.yy{
+    border: 2px solid rgb(71, 255, 86);
+}
+.hh{
+    border: 2px solid tomato;
+    min-height: 200px;
+    /* width: 200px; */
+}
+.bb{
+    border: 2px solid blue;
+    /* height: 200px; */
+    /* width: 100px; */
+
+}
+.test{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    /* padding:0  200px; */
+    width: 70%;
+    margin: 0 auto;
+}
+.box{
+    margin-top: 10px;
+    /* min-height: 200px; */
+}
+.underlines{
+    background-color: blue;
+    height: 5px;
+}
