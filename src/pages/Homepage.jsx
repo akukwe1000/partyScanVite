@@ -12,7 +12,15 @@ import { IoMdPhotos } from 'react-icons/io'
 
 const Homepage = () => {
   return (
-    
+
+                                        //  my pi pass words 
+    // pen olympic nasty small flat program invest monkey feature panther pet mountain kite win sense fee this habit race enable flavor attitude chief sister
+
+
+
+    // The wallet address used to sign: GDMIC525ZQZ3XS3QZBEPFOVLH46TYS4S57NTPVAWECABKDBJCHCADGLG
+
+    // Digital signature: tdK6mDxAnijwfqAnKrE0n7BKTLsm9FVYYNPeUFB2REywa9gvjai6V5QItKA0QmY24x0Ys0q8edxneV44UOKbCA==
     <div >
         <div className="  h-[400px] lg:h-[500px] relative">
            <img src={heropix} alt="" className='h-full w-full object-cover '  />
@@ -22,7 +30,7 @@ const Homepage = () => {
               </div>
            </div>
               <div className='h-[200px] flex justify-center items-center'> 
-                <h1 className='text-[30px] text-white font-bold mt-[70px]'>Favour Wed MIMI</h1>
+                <h1 className='text-[30px] text-white font-bold mt-[70px]'> ifunaya Wed IMI</h1>
               </div>
               <div className=' test pb-[80px]'>
                   <Link to='/visitor'>
